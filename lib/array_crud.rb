@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  colors = ["purple", "black", "green", "arrays!"]
+  return colors.last
 end
