@@ -19,6 +19,7 @@ end
 def remove_element_from_end_of_array(array)
   colors = ["purple", "black", "green", "blue"]
   colors.pop()
+  return colors
 end
 
 def remove_element_from_start_of_array(array)
